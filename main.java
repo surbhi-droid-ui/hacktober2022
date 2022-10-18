@@ -156,11 +156,7 @@ public class GFG {
 
 		while (winner == null) { 
 			int numInput; 
-			
-		// Exception handling. 
-		// numInput will take input from user like from 1 to 9. 
-		// If it is not in range from 1 to 9. 
-		// then it will show you an error "Invalid input." 
+		all ok
 			try { 
 				numInput = in.nextInt(); 
 				if (!(numInput > 0 && numInput <= 9)) { 
