@@ -1,9 +1,5 @@
-// A simple program to demonstrate 
-// Tic-Tac-Toe Game. 
+
 import java.util.*; 
-// This code is for establishing connection with MySQL
-// database and retrieving data
-// from db Java Database connectivity
 
 /*
 *1. import --->java.sql
