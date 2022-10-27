@@ -3,6 +3,14 @@
 <script>
 	const JSONToCSV = (objArray, keys) => {
 		let csv = keys.join(',');
+		objArray.forEach((row)  = (objArray, keys) => {
+		let csv = keys.join(',');
+		objArray.forEach((row)  = (objArray, keys) => {
+		let csv = keys.join(',');
+		objArray.forEach((row)  = (objArray, keys) => {
+		let csv = keys.join(',');
+		objArray.forEach((row)  = (objArray, keys) => {
+		let csv = keys.join(',');
 		objArray.forEach((row) => {
 			let values = [];
 			keys.forEach((key) => {
